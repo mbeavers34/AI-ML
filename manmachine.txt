@@ -1,0 +1,6 @@
+The Man-Machine stands asone of the pinnicles of 70's rock music
+cat manmachine.txt
+^X
+^G
+
+
