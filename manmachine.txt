@@ -3,4 +3,4 @@ cat manmachine.txt
 ^X
 ^G
 contains song The Robots where lyrics references the revolution technique of robotics, and how humans can use them as they wish
-
+When the song is performed live, the band is traditionally replaces by robots
